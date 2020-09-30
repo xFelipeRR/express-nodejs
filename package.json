@@ -1,0 +1,27 @@
+{
+  "name": "express-nodejs",
+  "version": "1.0.0",
+  "description": "Repository in order to learn the framework express for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xFelipeRR/express-nodejs.git"
+  }, 
+  "author": "", 
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xFelipeRR/express-nodejs/issues"
+  },
+  "homepage": "https://github.com/xFelipeRR/express-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "sucrase": "^3.15.0"
+  }
+}
